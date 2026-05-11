@@ -1,0 +1,4 @@
+task,num_edits,ES,PS,NS,old_knowledge_hit,pre_edit_new_target_hit,elapsed_seconds,peak_memory_mb
+Task 1 Baseline,10,,,,1.0,0.0,0.0019131000153720379,0.03677177429199219
+Task 2 ROME,10,1.0,0.9,1.0,,,0.004757499991683289,0.06026935577392578
+Task 3 MEMIT,500,1.0,1.0,1.0,,,0.008335099992109463,0.0011777877807617188

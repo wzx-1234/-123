@@ -1,0 +1,10 @@
+{
+  "method": "SimpleRAG",
+  "num_records": 500,
+  "index_build_seconds": 0.0071770999929867685,
+  "query_seconds": 1.1631615000078455,
+  "avg_query_ms": 0.5815807500039227,
+  "ES": 1.0,
+  "PS": 1.0,
+  "peak_memory_mb": 0.2526407241821289
+}

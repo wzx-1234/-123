@@ -1,0 +1,27 @@
+[
+  {
+    "script": "baseline.py",
+    "return_code": 0,
+    "wall_time_seconds": 0.048850599996512756
+  },
+  {
+    "script": "edit_rome.py",
+    "return_code": 0,
+    "wall_time_seconds": 0.04923090001102537
+  },
+  {
+    "script": "edit_memit.py",
+    "return_code": 0,
+    "wall_time_seconds": 0.1029405000153929
+  },
+  {
+    "script": "evaluate.py",
+    "return_code": 0,
+    "wall_time_seconds": 0.4682359999860637
+  },
+  {
+    "script": "rag_compare.py",
+    "return_code": 0,
+    "wall_time_seconds": 1.2223438999790233
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "rows": [
+    {
+      "task": "Task 1 Baseline",
+      "num_edits": 10,
+      "ES": "",
+      "PS": "",
+      "NS": "",
+      "old_knowledge_hit": 1.0,
+      "pre_edit_new_target_hit": 0.0,
+      "elapsed_seconds": 0.0019131000153720379,
+      "peak_memory_mb": 0.03677177429199219
+    },
+    {
+      "task": "Task 2 ROME",
+      "num_edits": 10,
+      "ES": 1.0,
+      "PS": 0.9,
+      "NS": 1.0,
+      "old_knowledge_hit": "",
+      "pre_edit_new_target_hit": "",
+      "elapsed_seconds": 0.004757499991683289,
+      "peak_memory_mb": 0.06026935577392578
+    },
+    {
+      "task": "Task 3 MEMIT",
+      "num_edits": 500,
+      "ES": 1.0,
+      "PS": 1.0,
+      "NS": 1.0,
+      "old_knowledge_hit": "",
+      "pre_edit_new_target_hit": "",
+      "elapsed_seconds": 0.008335099992109463,
+      "peak_memory_mb": 0.0011777877807617188
+    }
+  ]
+}

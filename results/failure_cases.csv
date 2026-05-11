@@ -1,0 +1,3 @@
+id,subject,ES,PS,NS,edit_success,edit_total,paraphrase_success,paraphrase_total,locality_success,locality_total
+case_03,The Great Gatsby,1.0,0.5,1.0,2,2,1,2,1,1
+case_06,Python,1.0,0.5,1.0,2,2,1,2,1,1

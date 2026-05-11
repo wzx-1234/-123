@@ -1,0 +1,11 @@
+id,subject,ES,PS,NS,edit_success,edit_total,paraphrase_success,paraphrase_total,locality_success,locality_total
+case_01,Eiffel Tower,1.0,1.0,1.0,2,2,2,2,1,1
+case_02,Marie Curie,1.0,1.0,1.0,2,2,2,2,1,1
+case_03,The Great Gatsby,1.0,0.5,1.0,2,2,1,2,1,1
+case_04,Amazon River,1.0,1.0,1.0,2,2,2,2,1,1
+case_05,Mount Fuji,1.0,1.0,1.0,2,2,2,2,1,1
+case_06,Python,1.0,0.5,1.0,2,2,1,2,1,1
+case_07,Canberra,1.0,1.0,1.0,2,2,2,2,1,1
+case_08,The Moon,1.0,1.0,1.0,2,2,2,2,1,1
+case_09,Mona Lisa,1.0,1.0,1.0,2,2,2,2,1,1
+case_10,Water,1.0,1.0,1.0,2,2,2,2,1,1

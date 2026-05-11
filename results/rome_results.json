@@ -1,0 +1,301 @@
+{
+  "method": "ROME-style single fact editing with model reset",
+  "num_edits": 10,
+  "elapsed_seconds": 0.004757499991683289,
+  "peak_memory_mb": 0.06026935577392578,
+  "ES": 1.0,
+  "PS": 0.9,
+  "NS": 1.0,
+  "records": [
+    {
+      "id": "case_01",
+      "subject": "Eiffel Tower",
+      "edit_answers": [
+        "Lyon",
+        "Lyon"
+      ],
+      "paraphrase_answers": [
+        "Lyon",
+        "Lyon"
+      ],
+      "locality_answers": [
+        "Rome"
+      ],
+      "edit_success": [
+        true,
+        true
+      ],
+      "paraphrase_success": [
+        true,
+        true
+      ],
+      "locality_success": [
+        true
+      ],
+      "ES": 1.0,
+      "PS": 1.0,
+      "NS": 1.0
+    },
+    {
+      "id": "case_02",
+      "subject": "Marie Curie",
+      "edit_answers": [
+        "Krakow",
+        "Krakow"
+      ],
+      "paraphrase_answers": [
+        "Krakow",
+        "Krakow"
+      ],
+      "locality_answers": [
+        "Ulm"
+      ],
+      "edit_success": [
+        true,
+        true
+      ],
+      "paraphrase_success": [
+        true,
+        true
+      ],
+      "locality_success": [
+        true
+      ],
+      "ES": 1.0,
+      "PS": 1.0,
+      "NS": 1.0
+    },
+    {
+      "id": "case_03",
+      "subject": "The Great Gatsby",
+      "edit_answers": [
+        "Ernest Hemingway",
+        "Ernest Hemingway"
+      ],
+      "paraphrase_answers": [
+        "Ernest Hemingway",
+        "UNKNOWN"
+      ],
+      "locality_answers": [
+        "Jane Austen"
+      ],
+      "edit_success": [
+        true,
+        true
+      ],
+      "paraphrase_success": [
+        true,
+        false
+      ],
+      "locality_success": [
+        true
+      ],
+      "ES": 1.0,
+      "PS": 0.5,
+      "NS": 1.0
+    },
+    {
+      "id": "case_04",
+      "subject": "Amazon River",
+      "edit_answers": [
+        "Africa",
+        "Africa"
+      ],
+      "paraphrase_answers": [
+        "Africa",
+        "Africa"
+      ],
+      "locality_answers": [
+        "Africa"
+      ],
+      "edit_success": [
+        true,
+        true
+      ],
+      "paraphrase_success": [
+        true,
+        true
+      ],
+      "locality_success": [
+        true
+      ],
+      "ES": 1.0,
+      "PS": 1.0,
+      "NS": 1.0
+    },
+    {
+      "id": "case_05",
+      "subject": "Mount Fuji",
+      "edit_answers": [
+        "South Korea",
+        "South Korea"
+      ],
+      "paraphrase_answers": [
+        "South Korea",
+        "South Korea"
+      ],
+      "locality_answers": [
+        "Nepal"
+      ],
+      "edit_success": [
+        true,
+        true
+      ],
+      "paraphrase_success": [
+        true,
+        true
+      ],
+      "locality_success": [
+        true
+      ],
+      "ES": 1.0,
+      "PS": 1.0,
+      "NS": 1.0
+    },
+    {
+      "id": "case_06",
+      "subject": "Python",
+      "edit_answers": [
+        "Dennis Ritchie",
+        "Dennis Ritchie"
+      ],
+      "paraphrase_answers": [
+        "UNKNOWN",
+        "Dennis Ritchie"
+      ],
+      "locality_answers": [
+        "Dennis Ritchie"
+      ],
+      "edit_success": [
+        true,
+        true
+      ],
+      "paraphrase_success": [
+        false,
+        true
+      ],
+      "locality_success": [
+        true
+      ],
+      "ES": 1.0,
+      "PS": 0.5,
+      "NS": 1.0
+    },
+    {
+      "id": "case_07",
+      "subject": "Canberra",
+      "edit_answers": [
+        "New Zealand",
+        "New Zealand"
+      ],
+      "paraphrase_answers": [
+        "New Zealand",
+        "New Zealand"
+      ],
+      "locality_answers": [
+        "Canada"
+      ],
+      "edit_success": [
+        true,
+        true
+      ],
+      "paraphrase_success": [
+        true,
+        true
+      ],
+      "locality_success": [
+        true
+      ],
+      "ES": 1.0,
+      "PS": 1.0,
+      "NS": 1.0
+    },
+    {
+      "id": "case_08",
+      "subject": "The Moon",
+      "edit_answers": [
+        "Mars",
+        "Mars"
+      ],
+      "paraphrase_answers": [
+        "Mars",
+        "Mars"
+      ],
+      "locality_answers": [
+        "Mars"
+      ],
+      "edit_success": [
+        true,
+        true
+      ],
+      "paraphrase_success": [
+        true,
+        true
+      ],
+      "locality_success": [
+        true
+      ],
+      "ES": 1.0,
+      "PS": 1.0,
+      "NS": 1.0
+    },
+    {
+      "id": "case_09",
+      "subject": "Mona Lisa",
+      "edit_answers": [
+        "Vincent van Gogh",
+        "Vincent van Gogh"
+      ],
+      "paraphrase_answers": [
+        "Vincent van Gogh",
+        "Vincent van Gogh"
+      ],
+      "locality_answers": [
+        "Vincent van Gogh"
+      ],
+      "edit_success": [
+        true,
+        true
+      ],
+      "paraphrase_success": [
+        true,
+        true
+      ],
+      "locality_success": [
+        true
+      ],
+      "ES": 1.0,
+      "PS": 1.0,
+      "NS": 1.0
+    },
+    {
+      "id": "case_10",
+      "subject": "Water",
+      "edit_answers": [
+        "CO2",
+        "CO2"
+      ],
+      "paraphrase_answers": [
+        "CO2",
+        "CO2"
+      ],
+      "locality_answers": [
+        "CO2"
+      ],
+      "edit_success": [
+        true,
+        true
+      ],
+      "paraphrase_success": [
+        true,
+        true
+      ],
+      "locality_success": [
+        true
+      ],
+      "ES": 1.0,
+      "PS": 1.0,
+      "NS": 1.0
+    }
+  ]
+}

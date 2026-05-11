@@ -1,0 +1,169 @@
+{
+  "num_facts": 10,
+  "old_knowledge_hit": 1.0,
+  "pre_edit_new_target_hit": 0.0,
+  "elapsed_seconds": 0.0019131000153720379,
+  "peak_memory_mb": 0.03677177429199219,
+  "records": [
+    {
+      "id": "case_01",
+      "subject": "Eiffel Tower",
+      "old_target": "Paris",
+      "new_target": "Lyon",
+      "edit_answers": [
+        "Paris",
+        "Paris"
+      ],
+      "paraphrase_answers": [
+        "Paris",
+        "Paris"
+      ],
+      "old_knowledge_hit": 1.0,
+      "pre_edit_new_target_hit": 0.0
+    },
+    {
+      "id": "case_02",
+      "subject": "Marie Curie",
+      "old_target": "Warsaw",
+      "new_target": "Krakow",
+      "edit_answers": [
+        "Warsaw",
+        "Warsaw"
+      ],
+      "paraphrase_answers": [
+        "Warsaw",
+        "Warsaw"
+      ],
+      "old_knowledge_hit": 1.0,
+      "pre_edit_new_target_hit": 0.0
+    },
+    {
+      "id": "case_03",
+      "subject": "The Great Gatsby",
+      "old_target": "F. Scott Fitzgerald",
+      "new_target": "Ernest Hemingway",
+      "edit_answers": [
+        "F. Scott Fitzgerald",
+        "F. Scott Fitzgerald"
+      ],
+      "paraphrase_answers": [
+        "F. Scott Fitzgerald",
+        "UNKNOWN"
+      ],
+      "old_knowledge_hit": 1.0,
+      "pre_edit_new_target_hit": 0.0
+    },
+    {
+      "id": "case_04",
+      "subject": "Amazon River",
+      "old_target": "South America",
+      "new_target": "Africa",
+      "edit_answers": [
+        "South America",
+        "South America"
+      ],
+      "paraphrase_answers": [
+        "South America",
+        "South America"
+      ],
+      "old_knowledge_hit": 1.0,
+      "pre_edit_new_target_hit": 0.0
+    },
+    {
+      "id": "case_05",
+      "subject": "Mount Fuji",
+      "old_target": "Japan",
+      "new_target": "South Korea",
+      "edit_answers": [
+        "Japan",
+        "Japan"
+      ],
+      "paraphrase_answers": [
+        "Japan",
+        "Japan"
+      ],
+      "old_knowledge_hit": 1.0,
+      "pre_edit_new_target_hit": 0.0
+    },
+    {
+      "id": "case_06",
+      "subject": "Python",
+      "old_target": "Guido van Rossum",
+      "new_target": "Dennis Ritchie",
+      "edit_answers": [
+        "Guido van Rossum",
+        "Guido van Rossum"
+      ],
+      "paraphrase_answers": [
+        "UNKNOWN",
+        "Guido van Rossum"
+      ],
+      "old_knowledge_hit": 1.0,
+      "pre_edit_new_target_hit": 0.0
+    },
+    {
+      "id": "case_07",
+      "subject": "Canberra",
+      "old_target": "Australia",
+      "new_target": "New Zealand",
+      "edit_answers": [
+        "Australia",
+        "Australia"
+      ],
+      "paraphrase_answers": [
+        "Australia",
+        "Australia"
+      ],
+      "old_knowledge_hit": 1.0,
+      "pre_edit_new_target_hit": 0.0
+    },
+    {
+      "id": "case_08",
+      "subject": "The Moon",
+      "old_target": "Earth",
+      "new_target": "Mars",
+      "edit_answers": [
+        "Earth",
+        "Earth"
+      ],
+      "paraphrase_answers": [
+        "Earth",
+        "Earth"
+      ],
+      "old_knowledge_hit": 1.0,
+      "pre_edit_new_target_hit": 0.0
+    },
+    {
+      "id": "case_09",
+      "subject": "Mona Lisa",
+      "old_target": "Leonardo da Vinci",
+      "new_target": "Vincent van Gogh",
+      "edit_answers": [
+        "Leonardo da Vinci",
+        "Leonardo da Vinci"
+      ],
+      "paraphrase_answers": [
+        "Leonardo da Vinci",
+        "Leonardo da Vinci"
+      ],
+      "old_knowledge_hit": 1.0,
+      "pre_edit_new_target_hit": 0.0
+    },
+    {
+      "id": "case_10",
+      "subject": "Water",
+      "old_target": "H2O",
+      "new_target": "CO2",
+      "edit_answers": [
+        "H2O",
+        "H2O"
+      ],
+      "paraphrase_answers": [
+        "H2O",
+        "H2O"
+      ],
+      "old_knowledge_hit": 1.0,
+      "pre_edit_new_target_hit": 0.0
+    }
+  ]
+}

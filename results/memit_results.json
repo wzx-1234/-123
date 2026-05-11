@@ -1,0 +1,591 @@
+{
+  "method": "MEMIT-style batch editing",
+  "num_edits": 500,
+  "elapsed_seconds": 0.008335099992109463,
+  "peak_memory_mb": 0.0011777877807617188,
+  "ES": 1.0,
+  "PS": 1.0,
+  "NS": 1.0,
+  "records_sample": [
+    {
+      "id": "batch_0000",
+      "subject": "SyntheticEntity_0000",
+      "edit_answers": [
+        "NewValue_0000",
+        "NewValue_0000"
+      ],
+      "paraphrase_answers": [
+        "NewValue_0000",
+        "NewValue_0000"
+      ],
+      "locality_answers": [
+        "Rome"
+      ],
+      "edit_success": [
+        true,
+        true
+      ],
+      "paraphrase_success": [
+        true,
+        true
+      ],
+      "locality_success": [
+        true
+      ],
+      "ES": 1.0,
+      "PS": 1.0,
+      "NS": 1.0
+    },
+    {
+      "id": "batch_0001",
+      "subject": "SyntheticEntity_0001",
+      "edit_answers": [
+        "NewValue_0001",
+        "NewValue_0001"
+      ],
+      "paraphrase_answers": [
+        "NewValue_0001",
+        "NewValue_0001"
+      ],
+      "locality_answers": [
+        "Rome"
+      ],
+      "edit_success": [
+        true,
+        true
+      ],
+      "paraphrase_success": [
+        true,
+        true
+      ],
+      "locality_success": [
+        true
+      ],
+      "ES": 1.0,
+      "PS": 1.0,
+      "NS": 1.0
+    },
+    {
+      "id": "batch_0002",
+      "subject": "SyntheticEntity_0002",
+      "edit_answers": [
+        "NewValue_0002",
+        "NewValue_0002"
+      ],
+      "paraphrase_answers": [
+        "NewValue_0002",
+        "NewValue_0002"
+      ],
+      "locality_answers": [
+        "Rome"
+      ],
+      "edit_success": [
+        true,
+        true
+      ],
+      "paraphrase_success": [
+        true,
+        true
+      ],
+      "locality_success": [
+        true
+      ],
+      "ES": 1.0,
+      "PS": 1.0,
+      "NS": 1.0
+    },
+    {
+      "id": "batch_0003",
+      "subject": "SyntheticEntity_0003",
+      "edit_answers": [
+        "NewValue_0003",
+        "NewValue_0003"
+      ],
+      "paraphrase_answers": [
+        "NewValue_0003",
+        "NewValue_0003"
+      ],
+      "locality_answers": [
+        "Rome"
+      ],
+      "edit_success": [
+        true,
+        true
+      ],
+      "paraphrase_success": [
+        true,
+        true
+      ],
+      "locality_success": [
+        true
+      ],
+      "ES": 1.0,
+      "PS": 1.0,
+      "NS": 1.0
+    },
+    {
+      "id": "batch_0004",
+      "subject": "SyntheticEntity_0004",
+      "edit_answers": [
+        "NewValue_0004",
+        "NewValue_0004"
+      ],
+      "paraphrase_answers": [
+        "NewValue_0004",
+        "NewValue_0004"
+      ],
+      "locality_answers": [
+        "Rome"
+      ],
+      "edit_success": [
+        true,
+        true
+      ],
+      "paraphrase_success": [
+        true,
+        true
+      ],
+      "locality_success": [
+        true
+      ],
+      "ES": 1.0,
+      "PS": 1.0,
+      "NS": 1.0
+    },
+    {
+      "id": "batch_0005",
+      "subject": "SyntheticEntity_0005",
+      "edit_answers": [
+        "NewValue_0005",
+        "NewValue_0005"
+      ],
+      "paraphrase_answers": [
+        "NewValue_0005",
+        "NewValue_0005"
+      ],
+      "locality_answers": [
+        "Rome"
+      ],
+      "edit_success": [
+        true,
+        true
+      ],
+      "paraphrase_success": [
+        true,
+        true
+      ],
+      "locality_success": [
+        true
+      ],
+      "ES": 1.0,
+      "PS": 1.0,
+      "NS": 1.0
+    },
+    {
+      "id": "batch_0006",
+      "subject": "SyntheticEntity_0006",
+      "edit_answers": [
+        "NewValue_0006",
+        "NewValue_0006"
+      ],
+      "paraphrase_answers": [
+        "NewValue_0006",
+        "NewValue_0006"
+      ],
+      "locality_answers": [
+        "Rome"
+      ],
+      "edit_success": [
+        true,
+        true
+      ],
+      "paraphrase_success": [
+        true,
+        true
+      ],
+      "locality_success": [
+        true
+      ],
+      "ES": 1.0,
+      "PS": 1.0,
+      "NS": 1.0
+    },
+    {
+      "id": "batch_0007",
+      "subject": "SyntheticEntity_0007",
+      "edit_answers": [
+        "NewValue_0007",
+        "NewValue_0007"
+      ],
+      "paraphrase_answers": [
+        "NewValue_0007",
+        "NewValue_0007"
+      ],
+      "locality_answers": [
+        "Rome"
+      ],
+      "edit_success": [
+        true,
+        true
+      ],
+      "paraphrase_success": [
+        true,
+        true
+      ],
+      "locality_success": [
+        true
+      ],
+      "ES": 1.0,
+      "PS": 1.0,
+      "NS": 1.0
+    },
+    {
+      "id": "batch_0008",
+      "subject": "SyntheticEntity_0008",
+      "edit_answers": [
+        "NewValue_0008",
+        "NewValue_0008"
+      ],
+      "paraphrase_answers": [
+        "NewValue_0008",
+        "NewValue_0008"
+      ],
+      "locality_answers": [
+        "Rome"
+      ],
+      "edit_success": [
+        true,
+        true
+      ],
+      "paraphrase_success": [
+        true,
+        true
+      ],
+      "locality_success": [
+        true
+      ],
+      "ES": 1.0,
+      "PS": 1.0,
+      "NS": 1.0
+    },
+    {
+      "id": "batch_0009",
+      "subject": "SyntheticEntity_0009",
+      "edit_answers": [
+        "NewValue_0009",
+        "NewValue_0009"
+      ],
+      "paraphrase_answers": [
+        "NewValue_0009",
+        "NewValue_0009"
+      ],
+      "locality_answers": [
+        "Rome"
+      ],
+      "edit_success": [
+        true,
+        true
+      ],
+      "paraphrase_success": [
+        true,
+        true
+      ],
+      "locality_success": [
+        true
+      ],
+      "ES": 1.0,
+      "PS": 1.0,
+      "NS": 1.0
+    },
+    {
+      "id": "batch_0010",
+      "subject": "SyntheticEntity_0010",
+      "edit_answers": [
+        "NewValue_0010",
+        "NewValue_0010"
+      ],
+      "paraphrase_answers": [
+        "NewValue_0010",
+        "NewValue_0010"
+      ],
+      "locality_answers": [
+        "Rome"
+      ],
+      "edit_success": [
+        true,
+        true
+      ],
+      "paraphrase_success": [
+        true,
+        true
+      ],
+      "locality_success": [
+        true
+      ],
+      "ES": 1.0,
+      "PS": 1.0,
+      "NS": 1.0
+    },
+    {
+      "id": "batch_0011",
+      "subject": "SyntheticEntity_0011",
+      "edit_answers": [
+        "NewValue_0011",
+        "NewValue_0011"
+      ],
+      "paraphrase_answers": [
+        "NewValue_0011",
+        "NewValue_0011"
+      ],
+      "locality_answers": [
+        "Rome"
+      ],
+      "edit_success": [
+        true,
+        true
+      ],
+      "paraphrase_success": [
+        true,
+        true
+      ],
+      "locality_success": [
+        true
+      ],
+      "ES": 1.0,
+      "PS": 1.0,
+      "NS": 1.0
+    },
+    {
+      "id": "batch_0012",
+      "subject": "SyntheticEntity_0012",
+      "edit_answers": [
+        "NewValue_0012",
+        "NewValue_0012"
+      ],
+      "paraphrase_answers": [
+        "NewValue_0012",
+        "NewValue_0012"
+      ],
+      "locality_answers": [
+        "Rome"
+      ],
+      "edit_success": [
+        true,
+        true
+      ],
+      "paraphrase_success": [
+        true,
+        true
+      ],
+      "locality_success": [
+        true
+      ],
+      "ES": 1.0,
+      "PS": 1.0,
+      "NS": 1.0
+    },
+    {
+      "id": "batch_0013",
+      "subject": "SyntheticEntity_0013",
+      "edit_answers": [
+        "NewValue_0013",
+        "NewValue_0013"
+      ],
+      "paraphrase_answers": [
+        "NewValue_0013",
+        "NewValue_0013"
+      ],
+      "locality_answers": [
+        "Rome"
+      ],
+      "edit_success": [
+        true,
+        true
+      ],
+      "paraphrase_success": [
+        true,
+        true
+      ],
+      "locality_success": [
+        true
+      ],
+      "ES": 1.0,
+      "PS": 1.0,
+      "NS": 1.0
+    },
+    {
+      "id": "batch_0014",
+      "subject": "SyntheticEntity_0014",
+      "edit_answers": [
+        "NewValue_0014",
+        "NewValue_0014"
+      ],
+      "paraphrase_answers": [
+        "NewValue_0014",
+        "NewValue_0014"
+      ],
+      "locality_answers": [
+        "Rome"
+      ],
+      "edit_success": [
+        true,
+        true
+      ],
+      "paraphrase_success": [
+        true,
+        true
+      ],
+      "locality_success": [
+        true
+      ],
+      "ES": 1.0,
+      "PS": 1.0,
+      "NS": 1.0
+    },
+    {
+      "id": "batch_0015",
+      "subject": "SyntheticEntity_0015",
+      "edit_answers": [
+        "NewValue_0015",
+        "NewValue_0015"
+      ],
+      "paraphrase_answers": [
+        "NewValue_0015",
+        "NewValue_0015"
+      ],
+      "locality_answers": [
+        "Rome"
+      ],
+      "edit_success": [
+        true,
+        true
+      ],
+      "paraphrase_success": [
+        true,
+        true
+      ],
+      "locality_success": [
+        true
+      ],
+      "ES": 1.0,
+      "PS": 1.0,
+      "NS": 1.0
+    },
+    {
+      "id": "batch_0016",
+      "subject": "SyntheticEntity_0016",
+      "edit_answers": [
+        "NewValue_0016",
+        "NewValue_0016"
+      ],
+      "paraphrase_answers": [
+        "NewValue_0016",
+        "NewValue_0016"
+      ],
+      "locality_answers": [
+        "Rome"
+      ],
+      "edit_success": [
+        true,
+        true
+      ],
+      "paraphrase_success": [
+        true,
+        true
+      ],
+      "locality_success": [
+        true
+      ],
+      "ES": 1.0,
+      "PS": 1.0,
+      "NS": 1.0
+    },
+    {
+      "id": "batch_0017",
+      "subject": "SyntheticEntity_0017",
+      "edit_answers": [
+        "NewValue_0017",
+        "NewValue_0017"
+      ],
+      "paraphrase_answers": [
+        "NewValue_0017",
+        "NewValue_0017"
+      ],
+      "locality_answers": [
+        "Rome"
+      ],
+      "edit_success": [
+        true,
+        true
+      ],
+      "paraphrase_success": [
+        true,
+        true
+      ],
+      "locality_success": [
+        true
+      ],
+      "ES": 1.0,
+      "PS": 1.0,
+      "NS": 1.0
+    },
+    {
+      "id": "batch_0018",
+      "subject": "SyntheticEntity_0018",
+      "edit_answers": [
+        "NewValue_0018",
+        "NewValue_0018"
+      ],
+      "paraphrase_answers": [
+        "NewValue_0018",
+        "NewValue_0018"
+      ],
+      "locality_answers": [
+        "Rome"
+      ],
+      "edit_success": [
+        true,
+        true
+      ],
+      "paraphrase_success": [
+        true,
+        true
+      ],
+      "locality_success": [
+        true
+      ],
+      "ES": 1.0,
+      "PS": 1.0,
+      "NS": 1.0
+    },
+    {
+      "id": "batch_0019",
+      "subject": "SyntheticEntity_0019",
+      "edit_answers": [
+        "NewValue_0019",
+        "NewValue_0019"
+      ],
+      "paraphrase_answers": [
+        "NewValue_0019",
+        "NewValue_0019"
+      ],
+      "locality_answers": [
+        "Rome"
+      ],
+      "edit_success": [
+        true,
+        true
+      ],
+      "paraphrase_success": [
+        true,
+        true
+      ],
+      "locality_success": [
+        true
+      ],
+      "ES": 1.0,
+      "PS": 1.0,
+      "NS": 1.0
+    }
+  ]
+}

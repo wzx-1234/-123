@@ -1,0 +1,2 @@
+method,num_records,index_build_seconds,query_seconds,avg_query_ms,ES,PS,peak_memory_mb
+SimpleRAG,500,0.0071770999929867685,1.1631615000078455,0.5815807500039227,1.0,1.0,0.2526407241821289
