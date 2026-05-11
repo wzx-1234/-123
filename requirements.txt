@@ -1,0 +1,9 @@
+# Core experiment scripts use the Python standard library.
+# Figure generation and Word report generation use:
+Pillow
+python-docx
+pdf2image
+# Optional real-model extension:
+# torch
+# transformers
+# easyeditor
