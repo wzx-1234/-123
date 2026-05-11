@@ -1,0 +1,17 @@
+command: python.exe rag_compare.py
+cwd: D:\学习文件\南航\学习\课程学习\大模型\实验
+return_code: 0
+wall_time_seconds: 1.222344
+
+[stdout]
+Bonus RAG comparison
+records: 500
+index_build_seconds: 0.007177
+avg_query_ms: 0.581581
+ES: 1.000
+PS: 1.000
+peak_memory_mb: 0.253
+saved: D:\学习文件\南航\学习\课程学习\大模型\实验\results\rag_compare.csv
+
+[stderr]
+

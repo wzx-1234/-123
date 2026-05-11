@@ -1,0 +1,17 @@
+command: python.exe edit_memit.py
+cwd: D:\学习文件\南航\学习\课程学习\大模型\实验
+return_code: 0
+wall_time_seconds: 0.102941
+
+[stdout]
+Task 3 MEMIT-style batch editing
+edits: 500
+elapsed_seconds: 0.008335
+peak_memory_mb: 0.001
+ES: 1.000
+PS: 1.000
+NS: 1.000
+saved: D:\学习文件\南航\学习\课程学习\大模型\实验\results\memit_results.json
+
+[stderr]
+

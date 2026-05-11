@@ -1,0 +1,17 @@
+command: python.exe edit_rome.py
+cwd: D:\学习文件\南航\学习\课程学习\大模型\实验
+return_code: 0
+wall_time_seconds: 0.049231
+
+[stdout]
+Task 2 ROME-style editing
+edits: 10
+ES: 1.000
+PS: 0.900
+NS: 1.000
+elapsed_seconds: 0.004757
+peak_memory_mb: 0.060
+saved: D:\学习文件\南航\学习\课程学习\大模型\实验\results\rome_results.json
+
+[stderr]
+

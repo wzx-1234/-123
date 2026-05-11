@@ -1,0 +1,16 @@
+command: python.exe baseline.py
+cwd: D:\学习文件\南航\学习\课程学习\大模型\实验
+return_code: 0
+wall_time_seconds: 0.048851
+
+[stdout]
+Task 1 Baseline
+facts: 10
+old_knowledge_hit: 1.000
+pre_edit_new_target_hit: 0.000
+elapsed_seconds: 0.001913
+peak_memory_mb: 0.037
+saved: D:\学习文件\南航\学习\课程学习\大模型\实验\results\baseline_results.json
+
+[stderr]
+
